@@ -1,5 +1,10 @@
 # IDMPwn
 
+[![build_status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/cyfrost/IDMPwn/releases/latest)
+[![GitHub release](https://img.shields.io/badge/current%20release-v0.1-blue.svg)](https://github.com/cyfrost/IDMPwn/releases/latest)
+[![license](https://img.shields.io/badge/license-MIT-orange.svg)](https://github.com/cyfrost/IDMPwn/blob/master/LICENSE)
+[![HitCount](http://hits.dwyl.com/cyfrost/IDMPwn.svg)](http://hits.dwyl.com/cyfrost/IDMPwn)
+
 This tool is intended for educational purposes only, Internet Download Manager is a product of Tonec Inc, Please buy the original product from the vendor to support the developers.
 
 ## Screenshot
@@ -8,7 +13,7 @@ This tool is intended for educational purposes only, Internet Download Manager i
 
 ## Download
 
-Download from [here](https://cyfrost.github.io).
+Download from [here](https://github.com/cyfrost/IDMPwn/releases/latest).
 
 ## Credits
 
