@@ -1,28 +1,3 @@
-# IDMPwn
-
-[![build_status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/cyfrost/IDMPwn/releases/latest)
-[![GitHub release](https://img.shields.io/badge/current%20release-v0.1-blue.svg)](https://github.com/cyfrost/IDMPwn/releases/latest)
-[![license](https://img.shields.io/badge/license-MIT-orange.svg)](https://github.com/cyfrost/IDMPwn/blob/master/LICENSE)
-[![HitCount](http://hits.dwyl.com/cyfrost/IDMPwn.svg)](http://hits.dwyl.com/cyfrost/IDMPwn)
-
-This tool is intended for educational purposes only, Internet Download Manager is a product of Tonec Inc, Please buy the original product from the vendor to support the developers.
-
-## Screenshot
-
-![idm-trial-reset](https://i.imgur.com/sILfbhp.png)
-
-## Download
-
-Download from [here](https://github.com/cyfrost/IDMPwn/releases/latest).
-
-## Credits
-
-- [idmresettrial](http://www.vn-zoom.com/8222251-idmresettrial/) (original author)
-- [Helge Klein](https://helgeklein.com/) (for SetACL)
-- [Cyfrost](https://github.com/cyfrost) (edits)
-
-## License
-
 MIT License
 
 Copyright (c) 2016 Juno_okyo
