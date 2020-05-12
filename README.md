@@ -16,7 +16,7 @@ You can get the latest version [here](https://github.com/J2TeaM/idm-trial-reset/
 
 ## Credits
 
-- [idmresettrial](http://www.vn-zoom.com/8222251-idmresettrial/) (original author)
+- idmresettrial (original author)
 - [Helge Klein](https://helgeklein.com/) (for SetACL)
 
 ## License
