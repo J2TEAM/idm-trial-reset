@@ -14,6 +14,10 @@ Use IDM forever without cracking. If you can, [buy a license](https://j2team.dev
 
 You can get the latest version [here](https://github.com/J2TeaM/idm-trial-reset/releases/latest).
 
+## Build from source
+
+If you want to create your own executable from the source code. Download [AutoIt](https://www.autoitscript.com/site/autoit/downloads/) and follow [this guide](https://www.autoitscript.com/autoit3/docs/intro/compiler.htm).
+
 ## Credits
 
 - idmresettrial (original author)
