@@ -18,6 +18,10 @@ You can get the latest version [here](https://github.com/J2TeaM/idm-trial-reset/
 
 If you want to create your own executable from the source code. Download [AutoIt](https://www.autoitscript.com/site/autoit/downloads/) and follow [this guide](https://www.autoitscript.com/autoit3/docs/intro/compiler.htm).
 
+## Learn AutoIt
+
+If you are interested in AutoIt programming, you can join my free course: https://j2team.teachable.com/p/hoc-lap-trinh-autoit
+
 ## Credits
 
 - idmresettrial (original author)
